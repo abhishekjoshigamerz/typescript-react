@@ -43,7 +43,7 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <div className="App dark">
       Notes App
       <AddNotes addNote={addNote} editMode={editMode} noteToBeEdited={noteToBeEdited} updateNote={updateNote}/>
      {
