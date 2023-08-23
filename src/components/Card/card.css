@@ -2,9 +2,16 @@
     border:1px solid grey;
     padding:2rem;
     font-size:1rem;
-    color:#333;
+   
     height:5rem;
     border-radius:0.5rem;
     background-color: burlywood;
     margin-top:1rem;
+}
+
+.card.light{
+    color:#333;
+}
+.card.dark{
+    color:white;
 }
