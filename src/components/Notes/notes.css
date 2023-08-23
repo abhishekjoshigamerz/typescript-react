@@ -1,0 +1,18 @@
+.high{
+    background-color: red;
+    color:white;
+    margin:10px 0px;
+
+}
+
+.medium{
+    background-color: aqua;
+    color:white;
+    margin:10px 0px;
+}
+
+.low{
+    background-color: grey;
+    color:white;
+    margin:10px 0px;
+}
